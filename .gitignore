@@ -1,0 +1,13 @@
+.env
+node_modules/
+.DS_Store
+
+# Exclude root personal files only
+/*.pdf
+/WhatsApp*.jpeg
+/consulta*.pdf
+/download.pdf
+/Redesim*.pdf
+
+# Exclude redundant assets
+/imagens/
